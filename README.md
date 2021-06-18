@@ -6,6 +6,7 @@
 
 **Perceptron :-**
 Structural building Block of deep learning.
+
 # Neural Network is Universal Function Approximator
 
 
