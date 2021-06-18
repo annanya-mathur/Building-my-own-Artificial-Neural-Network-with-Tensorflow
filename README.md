@@ -3,8 +3,9 @@
 2) **GPUs** (Graphic Processing Units) are massively parallelizable.
 3) **Tensorflow** going hand in hand with keras
 4) Improved techniques , softwares and model
-# Perceptron :- 
-Building Block of deep learning.
+
+**Perceptron :-**
+Structural building Block of deep learning.
 # Neural Network is Universal Function Approximator
 
 
